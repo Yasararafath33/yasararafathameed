@@ -1,0 +1,11 @@
+## ERP Support Documentation (Odoo/SAP)
+
+### User Access Management
+- Created and maintained 150+ user profiles
+- Implemented role-based access control
+- Coordinated with functional consultants
+
+### Issue Resolution Process
+- L1/L2 support ticket handling
+- Root cause analysis documentation
+- Knowledge base article creation

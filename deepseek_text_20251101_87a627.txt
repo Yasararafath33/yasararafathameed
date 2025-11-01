@@ -1,0 +1,4 @@
+**Technical Portfolio:** https://yourusername.github.io
+- IT Infrastructure Documentation
+- Network Diagrams & Procedures  
+- Automation Scripts & Troubleshooting Guides
